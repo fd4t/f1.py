@@ -1,7 +1,9 @@
 律饭：fanfou web proxy
 
 define:
-ff=fanfou
+- ff=fanfou
+- 群：523445644
+- 常用链接：https://github.com/pyzh/f1.py/issues/4
 
 function:
 - call ff.api
